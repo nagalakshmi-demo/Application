@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list">
+    <sys_aw_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Users">ca938f2d2ffe4010264052492799b6e0</category>
+        <columns>accumulated_roles,active,avatar,building,calendar_integration,city,company,cost_center,country,date_format,default_perspective,department,email,employee_number,enable_multifactor_authn,failed_attempts,first_name,gender,home_phone,internal_integration_user,introduction,last_login,last_login_time,last_name,ldap_server,location,locked_out,managed_domain,manager,middle_name,mobile_phone,name,notification,password_needs_reset,phone,photo,preferred_language,roles,schedule,source,state,street,sys_class_name,sys_created_by,sys_created_on,sys_domain,sys_domain_path,sys_id,sys_mod_count,sys_tags,sys_updated_by,sys_updated_on,time_format,time_zone,title,user_name,user_password,vip,web_service_access_only,zip</columns>
+        <condition/>
+        <groups/>
+        <list_attributes/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_aw_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-06 09:56:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d6938f2d2ffe4010264052492799b6e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="testapplication" source="x_452867_testappli">2aef7e692ffe4010264052492799b6cf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapplication">2aef7e692ffe4010264052492799b6cf</sys_scope>
+        <sys_update_name>sys_aw_list_d6938f2d2ffe4010264052492799b6e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-06 09:56:35</sys_updated_on>
+        <table>sys_user</table>
+        <title>All</title>
+        <workspace/>
+    </sys_aw_list>
+</record_update>

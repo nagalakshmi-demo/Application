@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="BusienssTerm">2bc917752fba8010264052492799b61a</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>BusienssTerms</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_452867_testappli_busienssterm</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_452867_testappli.busienssterm_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-07 06:12:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a7c917752fba8010264052492799b61d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BusienssTerms</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="testapplication" source="x_452867_testappli">2aef7e692ffe4010264052492799b6cf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapplication">2aef7e692ffe4010264052492799b6cf</sys_scope>
+        <sys_update_name>sys_app_module_a7c917752fba8010264052492799b61d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-07 06:12:06</sys_updated_on>
+        <timeline_page/>
+        <title>BusienssTerms</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

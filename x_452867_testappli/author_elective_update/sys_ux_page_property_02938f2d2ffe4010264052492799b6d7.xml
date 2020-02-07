@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices>tab</choices>
+        <description>Workspace level navigation mode</description>
+        <name>ws_navigation_mode</name>
+        <page display_value="testapplication">ca93872d2ffe4010264052492799b61b</page>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-06 09:56:34</sys_created_on>
+        <sys_id>02938f2d2ffe4010264052492799b6d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ws_navigation_mode</sys_name>
+        <sys_package display_value="testapplication" source="x_452867_testappli">2aef7e692ffe4010264052492799b6cf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapplication">2aef7e692ffe4010264052492799b6cf</sys_scope>
+        <sys_update_name>sys_ux_page_property_02938f2d2ffe4010264052492799b6d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-06 09:56:34</sys_updated_on>
+        <type>choicelist</type>
+        <unique_name>x_452867_testappli.ws_navigation_mode</unique_name>
+        <value>tab</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=02938f2d2ffe4010264052492799b6d7"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="testapplication">2aef7e692ffe4010264052492799b6cf</application>
+        <file_path/>
+        <instance_id>19ee1a2ddbb8d708cbf6d5b0cf9619df</instance_id>
+        <instance_name>dev52435</instance_name>
+        <name>sys_ux_page_property_02938f2d2ffe4010264052492799b6d7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices>tab</choices><description>Workspace level navigation mode</description><name>ws_navigation_mode</name><page display_value="testapplication">ca93872d2ffe4010264052492799b61b</page><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-06 09:56:34</sys_created_on><sys_id>02938f2d2ffe4010264052492799b6d7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ws_navigation_mode</sys_name><sys_package display_value="testapplication" source="x_452867_testappli">2aef7e692ffe4010264052492799b6cf</sys_package><sys_policy/><sys_scope display_value="testapplication">2aef7e692ffe4010264052492799b6cf</sys_scope><sys_update_name>sys_ux_page_property_02938f2d2ffe4010264052492799b6d7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-06 09:56:34</sys_updated_on><type>choicelist</type><unique_name>x_452867_testappli.ws_navigation_mode</unique_name><value>tab</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=02938f2d2ffe4010264052492799b6d7"/></record_update>]]></payload>
+        <payload_hash>1493909689</payload_hash>
+        <record_name>ws_navigation_mode</record_name>
+        <reverted_from/>
+        <source>2aef7e692ffe4010264052492799b6d1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-06 09:56:34</sys_created_on>
+        <sys_id>86938f2d2ffe4010264052492799b6d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17019ee07940000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-06 09:56:34</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>ce938f2dfffe4010268c84f09cf2f4d7</update_guid>
+        <update_guid_history>ce938f2dfffe4010268c84f09cf2f4d7:1493909689</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-06 10:21:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>5a10b339a36149fcb89f82157f96c209</sys_id>
+        <sys_metadata>02938f2d2ffe4010264052492799b6d7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ws_navigation_mode</sys_name>
+        <sys_package display_value="testapplication" source="x_452867_testappli">2aef7e692ffe4010264052492799b6cf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="testapplication">2aef7e692ffe4010264052492799b6cf</sys_scope>
+        <sys_scope_delete display_value="">06aeb16866af46048299a7713bcec390</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_02938f2d2ffe4010264052492799b6d7</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_02938f2d2ffe4010264052492799b6d7">86938f2d2ffe4010264052492799b6d8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-06 10:21:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

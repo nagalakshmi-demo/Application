@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="BusienssTerm">e7c917752fba8010264052492799b620</application>
+        <filter/>
+        <name>BusienssTerms</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_452867_testappli.busienssterm_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-07 06:12:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2fc917752fba8010264052492799b622</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BusienssTerms</sys_name>
+        <sys_package display_value="testapplication" source="x_452867_testappli">2aef7e692ffe4010264052492799b6cf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapplication">2aef7e692ffe4010264052492799b6cf</sys_scope>
+        <sys_update_name>sys_ui_module_2fc917752fba8010264052492799b622</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-07 06:12:06</sys_updated_on>
+        <table>x_452867_testappli_busienssterm</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

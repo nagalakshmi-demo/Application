@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="BusienssTerm" max_length="40" name="x_452867_testappli_busienssterm" type="collection">
+        <element label="Comment" max_length="250" name="comment" type="string"/>
+        <element label="Definition" max_length="40" name="definition" type="string"/>
+        <element label="Description" max_length="250" name="description" type="string"/>
+        <element display="true" label="Name" max_length="40" name="name" type="string"/>
+        <element label="Related to Column" max_length="32" name="related_to_term" reference="x_452867_testappli_column" type="reference"/>
+        <element choice="3" label="Status" max_length="50" name="status" type="glide_list">
+            <choice>
+                <element inactive_on_update="false" label="Approve" value="Approve"/>
+                <element inactive_on_update="false" label="New" value="New"/>
+                <element inactive_on_update="false" label="Rejected" value="Rejected"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="related_to_term"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="DELETE">
+        <active>true</active>
+        <brand_color/>
+        <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
+        <compiled_page_registry/>
+        <description/>
+        <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <global_search_data display_value="testapplication Search Context Config">c293872d2ffe4010264052492799b618</global_search_data>
+        <name>testapplication</name>
+        <navigation_type>tab</navigation_type>
+        <notifications_enabled>true</notifications_enabled>
+        <primary_color/>
+        <search_enabled>true</search_enabled>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-06 09:56:34</sys_created_on>
+        <sys_id>0293872d2ffe4010264052492799b61b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>testapplication</sys_name>
+        <sys_package display_value="testapplication" source="x_452867_testappli">2aef7e692ffe4010264052492799b6cf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapplication">2aef7e692ffe4010264052492799b6cf</sys_scope>
+        <sys_update_name>sys_aw_master_config_0293872d2ffe4010264052492799b61b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-06 09:56:34</sys_updated_on>
+        <user_preference_controls_enabled>true</user_preference_controls_enabled>
+        <workspace_logo/>
+        <workspace_url>testapplication</workspace_url>
+    </sys_aw_master_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="testapplication">2aef7e692ffe4010264052492799b6cf</application>
+        <file_path/>
+        <instance_id>19ee1a2ddbb8d708cbf6d5b0cf9619df</instance_id>
+        <instance_name>dev52435</instance_name>
+        <name>sys_aw_master_config_0293872d2ffe4010264052492799b61b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config"><sys_aw_master_config action="INSERT_OR_UPDATE"><active>true</active><brand_color/><compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page><compiled_page_registry/><description/><global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search><global_search_data display_value="testapplication Search Context Config">c293872d2ffe4010264052492799b618</global_search_data><name>testapplication</name><navigation_type>tab</navigation_type><notifications_enabled>true</notifications_enabled><primary_color/><search_enabled>true</search_enabled><sys_class_name>sys_aw_master_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-06 09:56:34</sys_created_on><sys_id>0293872d2ffe4010264052492799b61b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>testapplication</sys_name><sys_package display_value="testapplication" source="x_452867_testappli">2aef7e692ffe4010264052492799b6cf</sys_package><sys_policy/><sys_scope display_value="testapplication">2aef7e692ffe4010264052492799b6cf</sys_scope><sys_update_name>sys_aw_master_config_0293872d2ffe4010264052492799b61b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-06 09:56:34</sys_updated_on><user_preference_controls_enabled>true</user_preference_controls_enabled><workspace_logo/><workspace_url>testapplication</workspace_url></sys_aw_master_config></record_update>]]></payload>
+        <payload_hash>-460238798</payload_hash>
+        <record_name>testapplication</record_name>
+        <reverted_from/>
+        <source>2aef7e692ffe4010264052492799b6d1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-06 10:21:02</sys_created_on>
+        <sys_id>10398f212f328010264052492799b6d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1701a046c210000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-06 10:21:02</sys_updated_on>
+        <type>Workspace</type>
+        <update_guid>4e938f2dd7fe40101412fc368fa52ada</update_guid>
+        <update_guid_history>4e938f2dd7fe40101412fc368fa52ada:1653118987,4e938f2dd7fe40101412fc368fa52ada:1653118987</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-06 10:21:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_aw_master_config">sys_aw_master_config</sys_db_object>
+        <sys_id>550ebb7294274d8d9fdd4076673c3079</sys_id>
+        <sys_metadata>0293872d2ffe4010264052492799b61b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>testapplication</sys_name>
+        <sys_package display_value="testapplication" source="x_452867_testappli">2aef7e692ffe4010264052492799b6cf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="testapplication">2aef7e692ffe4010264052492799b6cf</sys_scope>
+        <sys_scope_delete display_value="">06aeb16866af46048299a7713bcec390</sys_scope_delete>
+        <sys_update_name>sys_aw_master_config_0293872d2ffe4010264052492799b61b</sys_update_name>
+        <sys_update_version display_value="sys_aw_master_config_0293872d2ffe4010264052492799b61b">10398f212f328010264052492799b6d8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-06 10:21:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

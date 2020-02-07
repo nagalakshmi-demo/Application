@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_custom_content_root_elem">
+    <sys_ux_custom_content_root_elem action="DELETE">
+        <active>true</active>
+        <applicability>single</applicability>
+        <applicable_page display_value="testapplication">ca93872d2ffe4010264052492799b61b</applicable_page>
+        <attrs/>
+        <children/>
+        <component display_value="sn-workspace-toolbar-button">c599f5f3b6554fd79cd983bf4ea75968</component>
+        <is_root>true</is_root>
+        <layout/>
+        <macroponent/>
+        <macroponent_config/>
+        <name>Home Button</name>
+        <order>0</order>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <parent/>
+        <parent_slot/>
+        <picker/>
+        <picker_condition/>
+        <placeholder display_value="Workspace Toolbar Buttons">1232bfb5730c330075e8f358caf6a7ca</placeholder>
+        <sys_class_name>sys_ux_custom_content_root_elem</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-06 09:56:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1e938f2d2ffe4010264052492799b6e9</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Home Button</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="testapplication" source="x_452867_testappli">2aef7e692ffe4010264052492799b6cf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapplication">2aef7e692ffe4010264052492799b6cf</sys_scope>
+        <sys_update_name>sys_ux_custom_content_root_elem_1e938f2d2ffe4010264052492799b6e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-06 09:56:35</sys_updated_on>
+        <tree_root/>
+    </sys_ux_custom_content_root_elem>
+    <sys_variable_value action="DELETE" query="document_key=1e938f2d2ffe4010264052492799b6e9"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_ux_custom_content_root_elem</document>
+        <document_key>1e938f2d2ffe4010264052492799b6e9</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-06 09:56:35</sys_created_on>
+        <sys_id>1e938f2d2ffe4010264052492799b6f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-06 09:56:35</sys_updated_on>
+        <value>home-outline</value>
+        <variable display_value="">674bdc908b8ed17eb631bec92971a228</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_ux_custom_content_root_elem</document>
+        <document_key>1e938f2d2ffe4010264052492799b6e9</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-06 09:56:35</sys_created_on>
+        <sys_id>de938f2d2ffe4010264052492799b6f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-06 09:56:35</sys_updated_on>
+        <value>home</value>
+        <variable display_value="">f497a95e69778d0f72f3f0d2df450266</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_ux_custom_content_root_elem</document>
+        <document_key>1e938f2d2ffe4010264052492799b6e9</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-06 09:56:35</sys_created_on>
+        <sys_id>de938f2d2ffe4010264052492799b6f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-06 09:56:35</sys_updated_on>
+        <value>Home</value>
+        <variable display_value="">b5b65fd20c3c13fbd299dce1ef797184</variable>
+    </sys_variable_value>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="testapplication">2aef7e692ffe4010264052492799b6cf</application>
+        <file_path/>
+        <instance_id>19ee1a2ddbb8d708cbf6d5b0cf9619df</instance_id>
+        <instance_name>dev52435</instance_name>
+        <name>sys_ux_custom_content_root_elem_1e938f2d2ffe4010264052492799b6e9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_custom_content_root_elem"><sys_ux_custom_content_root_elem action="INSERT_OR_UPDATE"><active>true</active><applicability>single</applicability><applicable_page display_value="testapplication">ca93872d2ffe4010264052492799b61b</applicable_page><attrs/><children/><component display_value="sn-workspace-toolbar-button">c599f5f3b6554fd79cd983bf4ea75968</component><is_root>true</is_root><layout/><macroponent/><macroponent_config/><name>Home Button</name><order>0</order><page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page><parent/><parent_slot/><picker/><picker_condition/><placeholder display_value="Workspace Toolbar Buttons">1232bfb5730c330075e8f358caf6a7ca</placeholder><sys_class_name>sys_ux_custom_content_root_elem</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-06 09:56:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1e938f2d2ffe4010264052492799b6e9</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Home Button</sys_name><sys_overrides/><sys_package display_value="testapplication" source="x_452867_testappli">2aef7e692ffe4010264052492799b6cf</sys_package><sys_policy/><sys_scope display_value="testapplication">2aef7e692ffe4010264052492799b6cf</sys_scope><sys_update_name>sys_ux_custom_content_root_elem_1e938f2d2ffe4010264052492799b6e9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-06 09:56:35</sys_updated_on><tree_root/></sys_ux_custom_content_root_elem><sys_variable_value action="delete_multiple" query="document_key=1e938f2d2ffe4010264052492799b6e9"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_ux_custom_content_root_elem</document><document_key>1e938f2d2ffe4010264052492799b6e9</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-06 09:56:35</sys_created_on><sys_id>1e938f2d2ffe4010264052492799b6f5</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-06 09:56:35</sys_updated_on><value>home-outline</value><variable display_value="">674bdc908b8ed17eb631bec92971a228</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_ux_custom_content_root_elem</document><document_key>1e938f2d2ffe4010264052492799b6e9</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-06 09:56:35</sys_created_on><sys_id>de938f2d2ffe4010264052492799b6f4</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-06 09:56:35</sys_updated_on><value>home</value><variable display_value="">f497a95e69778d0f72f3f0d2df450266</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_ux_custom_content_root_elem</document><document_key>1e938f2d2ffe4010264052492799b6e9</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-06 09:56:35</sys_created_on><sys_id>de938f2d2ffe4010264052492799b6f5</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-06 09:56:35</sys_updated_on><value>Home</value><variable display_value="">b5b65fd20c3c13fbd299dce1ef797184</variable></sys_variable_value></record_update>]]></payload>
+        <payload_hash>-1578449567</payload_hash>
+        <record_name>Home Button</record_name>
+        <reverted_from/>
+        <source>2aef7e692ffe4010264052492799b6d1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-06 09:56:35</sys_created_on>
+        <sys_id>de938f2d2ffe4010264052492799b6f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17019ee0b190000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-06 09:56:35</sys_updated_on>
+        <type>UX Custom Content Extension</type>
+        <update_guid>5a938f2dc8fe40103c92753ef9439ef7</update_guid>
+        <update_guid_history>5a938f2dc8fe40103c92753ef9439ef7:-1578449567,1e938f2d80fe401030d98744a96558ee:-1800771284</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-06 10:21:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_custom_content_root_elem">sys_ux_custom_content_root_elem</sys_db_object>
+        <sys_id>21e1b640e14f4f4f9404d36a07e70349</sys_id>
+        <sys_metadata>1e938f2d2ffe4010264052492799b6e9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home Button</sys_name>
+        <sys_package display_value="testapplication" source="x_452867_testappli">2aef7e692ffe4010264052492799b6cf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="testapplication">2aef7e692ffe4010264052492799b6cf</sys_scope>
+        <sys_scope_delete display_value="">06aeb16866af46048299a7713bcec390</sys_scope_delete>
+        <sys_update_name>sys_ux_custom_content_root_elem_1e938f2d2ffe4010264052492799b6e9</sys_update_name>
+        <sys_update_version display_value="sys_ux_custom_content_root_elem_1e938f2d2ffe4010264052492799b6e9">de938f2d2ffe4010264052492799b6f7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-06 10:21:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

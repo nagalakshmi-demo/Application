@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Column" max_length="40" name="x_452867_testappli_column" type="collection">
+        <element label="Comment" max_length="250" name="comment" type="string"/>
+        <element label="Definition" max_length="40" name="definition" type="string"/>
+        <element label="Name" max_length="50" name="name" type="string"/>
+        <element label="Personally Identifiable Information" max_length="50" name="personally_identifiable_information" type="string"/>
+        <element label="Security Classification" max_length="50" name="security_classification" type="string"/>
+        <element choice="3" label="Status" max_length="50" name="status" type="glide_list">
+            <choice>
+                <element inactive_on_update="false" label="Approve" value="Approve"/>
+                <element inactive_on_update="false" label="New" value="New"/>
+                <element inactive_on_update="false" label="Rejected" value="Rejected"/>
+                <element inactive_on_update="false" label="Under Review" value="Under Review"/>
+            </choice>
+        </element>
+    </element>
+</database>
